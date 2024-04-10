@@ -1,0 +1,167 @@
+ec01100	Metabolic pathways
+ec01110	Biosynthesis of secondary metabolites
+ec01120	Microbial metabolism in diverse environments
+ec00010	Glycolysis / Gluconeogenesis
+ec00020	Citrate cycle (TCA cycle)
+ec00030	Pentose phosphate pathway
+ec00040	Pentose and glucuronate interconversions
+ec00051	Fructose and mannose metabolism
+ec00052	Galactose metabolism
+ec00053	Ascorbate and aldarate metabolism
+ec00500	Starch and sucrose metabolism
+ec00520	Amino sugar and nucleotide sugar metabolism
+ec00620	Pyruvate metabolism
+ec00630	Glyoxylate and dicarboxylate metabolism
+ec00640	Propanoate metabolism
+ec00650	Butanoate metabolism
+ec00660	C5-Branched dibasic acid metabolism
+ec00562	Inositol phosphate metabolism
+ec00190	Oxidative phosphorylation
+ec00195	Photosynthesis
+ec00710	Carbon fixation in photosynthetic organisms
+ec00720	Carbon fixation pathways in prokaryotes
+ec00680	Methane metabolism
+ec00910	Nitrogen metabolism
+ec00920	Sulfur metabolism
+ec00061	Fatty acid biosynthesis
+ec00062	Fatty acid elongation
+ec00071	Fatty acid degradation
+ec00073	Cutin, suberine and wax biosynthesis
+ec00100	Steroid biosynthesis
+ec00120	Primary bile acid biosynthesis
+ec00121	Secondary bile acid biosynthesis
+ec00140	Steroid hormone biosynthesis
+ec00561	Glycerolipid metabolism
+ec00564	Glycerophospholipid metabolism
+ec00565	Ether lipid metabolism
+ec00600	Sphingolipid metabolism
+ec00590	Arachidonic acid metabolism
+ec00591	Linoleic acid metabolism
+ec00592	alpha-Linolenic acid metabolism
+ec01040	Biosynthesis of unsaturated fatty acids
+ec00230	Purine metabolism
+ec00240	Pyrimidine metabolism
+ec00250	Alanine, aspartate and glutamate metabolism
+ec00260	Glycine, serine and threonine metabolism
+ec00270	Cysteine and methionine metabolism
+ec00280	Valine, leucine and isoleucine degradation
+ec00290	Valine, leucine and isoleucine biosynthesis
+ec00300	Lysine biosynthesis
+ec00310	Lysine degradation
+ec00220	Arginine biosynthesis
+ec00330	Arginine and proline metabolism
+ec00340	Histidine metabolism
+ec00350	Tyrosine metabolism
+ec00360	Phenylalanine metabolism
+ec00380	Tryptophan metabolism
+ec00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+ec00410	beta-Alanine metabolism
+ec00430	Taurine and hypotaurine metabolism
+ec00440	Phosphonate and phosphinate metabolism
+ec00450	Selenocompound metabolism
+ec00460	Cyanoamino acid metabolism
+ec00470	D-Amino acid metabolism
+ec00480	Glutathione metabolism
+ec00510	N-Glycan biosynthesis
+ec00513	Various types of N-glycan biosynthesis
+ec00512	Mucin type O-glycan biosynthesis
+ec00515	Mannose type O-glycan biosynthesis
+ec00514	Other types of O-glycan biosynthesis
+ec00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+ec00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+ec00533	Glycosaminoglycan biosynthesis - keratan sulfate
+ec00531	Glycosaminoglycan degradation
+ec00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+ec00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+ec00603	Glycosphingolipid biosynthesis - globo and isoglobo series
+ec00604	Glycosphingolipid biosynthesis - ganglio series
+ec00511	Other glycan degradation
+ec00540	Lipopolysaccharide biosynthesis
+ec00541	O-Antigen nucleotide sugar biosynthesis
+ec00550	Peptidoglycan biosynthesis
+ec00552	Teichoic acid biosynthesis
+ec00571	Lipoarabinomannan (LAM) biosynthesis
+ec00572	Arabinogalactan biosynthesis - Mycobacterium
+ec00730	Thiamine metabolism
+ec00740	Riboflavin metabolism
+ec00750	Vitamin B6 metabolism
+ec00760	Nicotinate and nicotinamide metabolism
+ec00770	Pantothenate and CoA biosynthesis
+ec00780	Biotin metabolism
+ec00785	Lipoic acid metabolism
+ec00790	Folate biosynthesis
+ec00670	One carbon pool by folate
+ec00830	Retinol metabolism
+ec00860	Porphyrin metabolism
+ec00130	Ubiquinone and other terpenoid-quinone biosynthesis
+ec00900	Terpenoid backbone biosynthesis
+ec00902	Monoterpenoid biosynthesis
+ec00909	Sesquiterpenoid and triterpenoid biosynthesis
+ec00904	Diterpenoid biosynthesis
+ec00906	Carotenoid biosynthesis
+ec00905	Brassinosteroid biosynthesis
+ec00981	Insect hormone biosynthesis
+ec00908	Zeatin biosynthesis
+ec00903	Limonene degradation
+ec00907	Pinene, camphor and geraniol degradation
+ec00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+ec01051	Biosynthesis of ansamycins
+ec01059	Biosynthesis of enediyne antibiotics
+ec01056	Biosynthesis of type II polyketide backbone
+ec01057	Biosynthesis of type II polyketide products
+ec00253	Tetracycline biosynthesis
+ec00523	Polyketide sugar unit biosynthesis
+ec01053	Biosynthesis of siderophore group nonribosomal peptides
+ec01055	Biosynthesis of vancomycin group antibiotics
+ec00940	Phenylpropanoid biosynthesis
+ec00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+ec00941	Flavonoid biosynthesis
+ec00944	Flavone and flavonol biosynthesis
+ec00942	Anthocyanin biosynthesis
+ec00943	Isoflavonoid biosynthesis
+ec00946	Degradation of flavonoids
+ec00901	Indole alkaloid biosynthesis
+ec00950	Isoquinoline alkaloid biosynthesis
+ec00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+ec00996	Biosynthesis of various alkaloids
+ec00232	Caffeine metabolism
+ec00965	Betalain biosynthesis
+ec00966	Glucosinolate biosynthesis
+ec00402	Benzoxazinoid biosynthesis
+ec00311	Penicillin and cephalosporin biosynthesis
+ec00332	Carbapenem biosynthesis
+ec00261	Monobactam biosynthesis
+ec00331	Clavulanic acid biosynthesis
+ec00521	Streptomycin biosynthesis
+ec00524	Neomycin, kanamycin and gentamicin biosynthesis
+ec00525	Acarbose and validamycin biosynthesis
+ec00401	Novobiocin biosynthesis
+ec00404	Staurosporine biosynthesis
+ec00405	Phenazine biosynthesis
+ec00333	Prodigiosin biosynthesis
+ec00254	Aflatoxin biosynthesis
+ec00998	Biosynthesis of various antibiotics
+ec00999	Biosynthesis of various plant secondary metabolites
+ec00997	Biosynthesis of various other secondary metabolites
+ec00362	Benzoate degradation
+ec00627	Aminobenzoate degradation
+ec00364	Fluorobenzoate degradation
+ec00625	Chloroalkane and chloroalkene degradation
+ec00361	Chlorocyclohexane and chlorobenzene degradation
+ec00623	Toluene degradation
+ec00622	Xylene degradation
+ec00633	Nitrotoluene degradation
+ec00642	Ethylbenzene degradation
+ec00643	Styrene degradation
+ec00791	Atrazine degradation
+ec00930	Caprolactam degradation
+ec00363	Bisphenol degradation
+ec00621	Dioxin degradation
+ec00626	Naphthalene degradation
+ec00624	Polycyclic aromatic hydrocarbon degradation
+ec00365	Furfural degradation
+ec00984	Steroid degradation
+ec00980	Metabolism of xenobiotics by cytochrome P450
+ec00982	Drug metabolism - cytochrome P450
+ec00983	Drug metabolism - other enzymes
+ec00970	Aminoacyl-tRNA biosynthesis
